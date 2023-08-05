@@ -19,6 +19,8 @@ There are five lungs environments from the Lung Image Database Consortium and Im
 [3]: <https://github.com/UNC-Robotics/lung-segmentation> "LINK"
 [4]: <https://www.slicer.org/> "3D-Slicer"
 
+#### Anatomical Models with Respiratory Deformation
+
 In addition, there are three lungs environment from the Extraction of Airways from CT 2009 ([EXACT'09][5]) study. We segmented the bronchial tree, lung lobes, and blood vessels in 3D-Slicer. The three CT scans we selected are from study participants for whom there is both an expiratory and inspiratory CT scan. We used [Elastix][6] to perform a non-rigid registration between these respiratory states and include the resulting deformation field in the dataset to enable interpolation of respiratory deformation in the anatomy.
 
 [5]: <http://image.diku.dk/exact/> "EXACT'09"
