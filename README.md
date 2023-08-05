@@ -26,13 +26,13 @@ In addition, there are three lungs environment from the Extraction of Airways fr
 
 ### Liver
 
-There are five liver environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation ([HCC-TACE-Seg][7]) (CC-BY 4.0) image collection from The Cancer Imaging Archive ([TCIA][2]). Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. We manually refined and expanded these segmentations using 3D-Slicer, as well as differentiated the vessels into the hepatic arteries, hepatic veins, and portal vein.
+There are five liver environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation ([HCC-TACE-Seg][7]) (CC-BY 4.0) image collection from TCIA. Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. We manually refined and expanded these segmentations using 3D-Slicer, as well as differentiated the vessels into the hepatic arteries, hepatic veins, and portal vein.
 
 [7]: <https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229> "HCC-TACE-Seg"
 
 ### Brain :brain:
 
-There are five brain environments from the [Healthy MR Database][8]). We segmented the blood vessels manually using 3D-Slicer, and we used [FastSurfer][9] to segment the brain and all of the brain subregions.
+There are five brain environments from the [Healthy MR Database][8]. We segmented the blood vessels manually using 3D-Slicer, and we used [FastSurfer][9] to segment the brain and all of the brain subregions.
 
 [8]: <https://data.kitware.com/#collection/591086ee8d777f16d01e0724> "HMRD"
 [9]: <https://www.sciencedirect.com/science/article/pii/S1053811920304985> "FS"
