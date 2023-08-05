@@ -12,6 +12,8 @@ This dataset is actively growing and we welcome any and all collaborations and c
 
 ### Lungs :lungs:
 
+#### Tumor Targeting Environments
+
 There are five lungs environments from the Lung Image Database Consortium and Image Database Resource Initiative ([LIDC-IDRI][1]) (CC-BY 3.0) image collection from The Cancer Imaging Archive ([TCIA][2]). We segmented the bronchial tree, pleural boundary, and major vessels using an [automatic segmentation algorithm][3], and we segmented the nodules and lung fissures manually using [3D-Slicer][4]. 
 
 [1]: <https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI> "LIDC-IDRI"
