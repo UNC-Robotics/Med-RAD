@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains anatomical environments for research into development and evaluation of medical robots.
+This repository contains anatomical environments as a resource for research into development and evaluation of medical robots.
 
 ## Contributing
 
