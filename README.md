@@ -23,23 +23,24 @@ There are five lungs environments from the Lung Image Database Consortium and Im
 
 #### Anatomical Models with Respiratory Deformation
 
-In addition, there are three lungs environment from the Extraction of Airways from CT 2009 ([EXACT'09][5]) study. We segmented the bronchial tree, lung lobes, and blood vessels in 3D-Slicer. The three CT scans we selected are from study participants for whom there is both an expiratory and inspiratory CT scan. We used [Elastix][6] to perform a non-rigid registration between these respiratory states and include the resulting deformation field in the dataset to enable interpolation of respiratory deformation in the anatomy.
+In addition, there are two lungs environments from the Extraction of Airways from CT 2009 ([EXACT'09][5]) study and one lungs environment from the [CT-vs-PET-Ventilating-Imaging][7] study from TCIA. We segmented the bronchial tree, lung lobes, and blood vessels in 3D-Slicer. The three CT scans we selected are from study participants for whom there is both an expiratory and inspiratory CT scan. We used [Elastix][6] to perform a non-rigid registration between these respiratory states and include the resulting deformation field in the dataset to enable interpolation of respiratory deformation in the anatomy.
 
 [5]: <http://image.diku.dk/exact/> "EXACT'09"
 [6]: <https://github.com/lassoan/SlicerElastix>
+[7]: <https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=125600096>
 
 ### Liver
 
-There are five liver environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation ([HCC-TACE-Seg][7]) (CC-BY 4.0) image collection from TCIA. Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. We manually refined and expanded these segmentations using 3D-Slicer, as well as differentiated the vessels into the hepatic arteries, hepatic veins, and portal vein.
+There are five liver environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation ([HCC-TACE-Seg][8]) (CC-BY 4.0) image collection from TCIA. Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. We manually refined and expanded these segmentations using 3D-Slicer, as well as differentiated the vessels into the hepatic arteries, hepatic veins, and portal vein.
 
-[7]: <https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229> "HCC-TACE-Seg"
+[8]: <https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229> "HCC-TACE-Seg"
 
 ### Brain :brain:
 
-There are five brain environments from the [Healthy MR Database][8]. We segmented the blood vessels manually using 3D-Slicer, and we used [FastSurfer][9] to segment the brain and all of the brain subregions.
+There are five brain environments from the [Healthy MR Database][9]. We segmented the blood vessels manually using 3D-Slicer, and we used [FastSurfer][10] to segment the brain and all of the brain subregions.
 
-[8]: <https://data.kitware.com/#collection/591086ee8d777f16d01e0724> "HMRD"
-[9]: <https://www.sciencedirect.com/science/article/pii/S1053811920304985> "FS"
+[9]: <https://data.kitware.com/#collection/591086ee8d777f16d01e0724> "HMRD"
+[10]: <https://www.sciencedirect.com/science/article/pii/S1053811920304985> "FS"
 
 ## Usage
 
