@@ -56,7 +56,7 @@ We used Slicer version 5.0.3
 
 * Armato III, Samuel G., et al. "The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans." Medical physics 38.2 (2011): 915-931.
 
-* * Armato III, Samuel G., et al. (2015). Data From LIDC-IDRI [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
+* Armato III, Samuel G., et al. (2015). Data From LIDC-IDRI [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
 
 * Morshid, Ali, et al. "A machine learning model to predict hepatocellular carcinoma response to transcatheter arterial chemoembolization." Radiology. Artificial intelligence 1.5 (2019).
 
