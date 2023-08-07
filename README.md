@@ -56,7 +56,7 @@ We used Slicer version 5.0.3
 
 * Armato III, Samuel G., et al. "The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans." Medical physics 38.2 (2011): 915-931.
 
-* Armato III, Samuel G., et al. (2015). Data From LIDC-IDRI [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
+* Armato III, Samuel G., et al. Data From LIDC-IDRI [Data set]. (2015). The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX
 
 * Morshid, Ali, et al. "A machine learning model to predict hepatocellular carcinoma response to transcatheter arterial chemoembolization." Radiology. Artificial intelligence 1.5 (2019).
 
@@ -66,7 +66,7 @@ We used Slicer version 5.0.3
 
 * Eslick, Enid M., et al. "CT ventilation imaging derived from breath hold CT exhibits good regional accuracy with Galligas PET." Radiotherapy and Oncology 127.2 (2018): 267-273.
 
-* Eslick, Enid M., et al. (2022). CT Ventilation as a functional imaging modality for lung cancer radiotherapy (CT-vs-PET-Ventilation-Imaging) (Version 1) [Data set]. The Cancer Imaging Archive.
+* Eslick, Enid M., et al. CT Ventilation as a functional imaging modality for lung cancer radiotherapy (CT-vs-PET-Ventilation-Imaging) (Version 1) [Data set]. (2022). The Cancer Imaging Archive.
 
 ## Acknowledgements
 
