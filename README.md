@@ -48,7 +48,7 @@ Within each folder are segmentation files in .nii.gz format. These can easily be
 
 Inside `HelpfulMethods/` are a couple helpful functions for programmatically loading the data, converting betweeen RAS and IJK coordinates, and for visualizing the data.
 
-We used Slicer version [4.11.20210226](https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/60ac0ce2ae4540bf6a899ecc).
+We used Slicer version 5.0.3
 
 ## References
 
