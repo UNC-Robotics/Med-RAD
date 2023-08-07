@@ -46,7 +46,7 @@ There are five brain environments from the [Healthy MR Database][9]. We segmente
 
 Within each folder are segmentation files in .nii.gz format. These can easily be loaded in publicly-available software such as 3D Slicer and then converted or saved in other formats. [NiBabel](https://nipy.org/nibabel/) or [SimpleITK](https://pypi.org/project/SimpleITK/) are other convenient tools for working with these types of images. For each environment, there are text files with [RAS](https://www.slicer.org/wiki/Coordinate_systems) coordinates corresponding to the nodules and a set of 4x4 matrices for variable clinically-motivated start poses for the motion planning problem.
 
-Inside `Utilities/` are a couple helpful functions for programmatically loading the data, converting betweeen RAS and IJK coordinates, and for visualizing the data.
+Inside `HelpfulMethods/` are a couple helpful functions for programmatically loading the data, converting betweeen RAS and IJK coordinates, and for visualizing the data.
 
 We used Slicer version [4.11.20210226](https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/60ac0ce2ae4540bf6a899ecc).
 
