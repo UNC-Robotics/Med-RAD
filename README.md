@@ -67,6 +67,8 @@ The authors acknowledge the National Cancer Institute and the Foundation for the
 
 The MR brain images from healthy volunteers used in this work were collected and made available by the CASILab at The University of North Carolina at Chapel Hill and were distributed by the MIDAS Data Server at Kitware, Inc.
 
+We thank the organizers of the Extraction of Airways from CT 2009 (EXACT09) study for their efforts in establishing the original study and for giving us permission to share the segmentations we generated using EXACT09 images.
+
 ## Citation
 
 If you found our work useful in your work, please consider citing our abstract:
