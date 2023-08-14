@@ -94,7 +94,7 @@ An abstract that described an earlier version of this dataset can be found [here
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 Any use of this work must also abide by the [terms](https://wiki.cancerimagingarchive.net/display/Public/Data+Usage+Policies+and+Restrictions) set by the TCIA.
 
