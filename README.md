@@ -99,7 +99,7 @@ If you found our work useful in your work, please consider citing our abstract(s
 }
 ```
 
-The abstracts for the citations can be found [here] and [here](https://arxiv.org/abs/2210.10834) (an earlier version of this dataset).
+The abstracts for the citations can be found [here](https://github.com/UNC-Robotics/Med-RAD/blob/main/Abstracts/Med-RAD.pdf) and [here](https://github.com/UNC-Robotics/Med-RAD/blob/main/Abstracts/Med-MPD.pdf) (an earlier version of this dataset).
 
 ## License
 
