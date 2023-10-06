@@ -78,10 +78,19 @@ We thank the organizers of the Extraction of Airways from CT 2009 (EXACT09) stud
 
 ## Citation
 
-If you found our work useful in your work, please consider citing our abstract:
+If you found our work useful in your work, please consider citing our abstract(s):
 
 ```
-@inproceedings{friedmeddataset,
+@inproceedings{fried2023dataset,
+  title={A Dataset of Anatomical Environments for Medical Robots: Modeling Respiratory Deformation},
+  author={Fried, Inbar and Hoelscher, Janine and Akulian, A Jason and Alterovitz, Ron},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop on Data vs Model in Medical Robotics},
+  year={2023}
+}
+```
+
+```
+@inproceedings{fried2022clinical,
   title={A Clinical Dataset for the Evaluation of Motion Planners in Medical Applications},
   author={Fried, Inbar and Akulian, A Jason and Alterovitz, Ron},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop on Evaluating Motion Planning Performance},
@@ -90,7 +99,7 @@ If you found our work useful in your work, please consider citing our abstract:
 }
 ```
 
-An abstract that described an earlier version of this dataset can be found [here](https://arxiv.org/abs/2210.10834).
+The abstracts for the citations can be found [here] and [here](https://arxiv.org/abs/2210.10834) (an earlier version of this dataset).
 
 ## License
 
