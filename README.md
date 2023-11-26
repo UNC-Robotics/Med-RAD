@@ -6,7 +6,7 @@ This repository contains anatomical environments as a resource for research into
 
 ## Contributing
 
-This dataset is actively growing and we welcome any and all collaborations and contributions. Please [get in touch with us](mailto:ifried01@cs.unc.edu) if you are interested in this work!
+This dataset is actively growing and we welcome any and all collaborations and contributions. Please [get in touch with us](mailto:med-rad@cs.unc.edu) if you are interested in this work!
 
 ## Data
 
